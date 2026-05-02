@@ -35,5 +35,5 @@ Customer Personality Analysis dataset from Kaggle
 
 ## 📌 Author
 
-Your Name
+MOHIT PAL
  
